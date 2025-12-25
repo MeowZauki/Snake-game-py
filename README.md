@@ -1,5 +1,5 @@
 Snake game | مار بازی
-
+###ENG
 A simple Snake game built with Pygame.
 
 ## Features
@@ -22,6 +22,7 @@ A simple Snake game built with Pygame.
 ```sh
 pip install pygame
 ```
+###فارسی
 یک بازی ساده‌ی مار (Snake) ساخته‌شده با کتابخانه‌ی Pygame.
 
 ## ویژگی‌ها
